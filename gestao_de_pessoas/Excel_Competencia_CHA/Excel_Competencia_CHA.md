@@ -724,7 +724,7 @@ h1
 	{mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo 1 Char";
+	mso-style-link:"T√≠tulo 1 Char";
 	mso-style-next:Normal;
 	margin-top:12.0pt;
 	margin-right:0cm;
@@ -754,7 +754,7 @@ h1
 h2
 	{mso-style-priority:9;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo 2 Char";
+	mso-style-link:"T√≠tulo 2 Char";
 	mso-style-next:Normal;
 	margin-top:2.0pt;
 	margin-right:0cm;
@@ -784,7 +784,7 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo Char";
+	mso-style-link:"T√≠tulo Char";
 	mso-style-next:Normal;
 	margin:0cm;
 	margin-bottom:.0001pt;
@@ -807,7 +807,7 @@ p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo Char";
+	mso-style-link:"T√≠tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin:0cm;
@@ -831,7 +831,7 @@ p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo Char";
+	mso-style-link:"T√≠tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin:0cm;
@@ -855,7 +855,7 @@ p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"TÌtulo Char";
+	mso-style-link:"T√≠tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin:0cm;
@@ -878,7 +878,7 @@ p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
 p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
 	{mso-style-noshow:yes;
 	mso-style-priority:99;
-	mso-style-link:"Texto de bal„o Char";
+	mso-style-link:"Texto de bal√£o Char";
 	margin:0cm;
 	margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
@@ -981,11 +981,11 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 span.TtuloChar
-	{mso-style-name:"TÌtulo Char";
+	{mso-style-name:"T√≠tulo Char";
 	mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:TÌtulo;
+	mso-style-link:T√≠tulo;
 	mso-ansi-font-size:28.0pt;
 	mso-bidi-font-size:28.0pt;
 	font-family:"Calibri Light",sans-serif;
@@ -1000,11 +1000,11 @@ span.TtuloChar
 	letter-spacing:-.5pt;
 	mso-font-kerning:14.0pt;}
 span.Ttulo2Char
-	{mso-style-name:"TÌtulo 2 Char";
+	{mso-style-name:"T√≠tulo 2 Char";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"TÌtulo 2";
+	mso-style-link:"T√≠tulo 2";
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:13.0pt;
 	font-family:"Calibri Light",sans-serif;
@@ -1020,11 +1020,11 @@ span.Ttulo2Char
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.Ttulo1Char
-	{mso-style-name:"TÌtulo 1 Char";
+	{mso-style-name:"T√≠tulo 1 Char";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"TÌtulo 1";
+	mso-style-link:"T√≠tulo 1";
 	mso-ansi-font-size:16.0pt;
 	mso-bidi-font-size:16.0pt;
 	font-family:"Calibri Light",sans-serif;
@@ -1040,12 +1040,12 @@ span.Ttulo1Char
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
 span.TextodebaloChar
-	{mso-style-name:"Texto de bal„o Char";
+	{mso-style-name:"Texto de bal√£o Char";
 	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Texto de bal„o";
+	mso-style-link:"Texto de bal√£o";
 	mso-ansi-font-size:9.0pt;
 	mso-bidi-font-size:9.0pt;
 	font-family:"Segoe UI",sans-serif;
@@ -1219,70 +1219,70 @@ table.MsoTableGrid
 
 <div class=WordSection1>
 
-<p class=MsoTitle align=center style='text-align:center'>Gest„o por
-CompetÍncias com Planilha de Excel (planilha din‚mica)</p>
+<p class=MsoTitle align=center style='text-align:center'>Gest√£o por
+Compet√™ncias com Planilha de Excel (planilha din√¢mica)</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Empresas, escolas e diversas outras organizaÁıes buscam
-identificar as competÍncias, o Famoso ìCHAî (Conhecimento, Habilidade e
-Atitude) dos seus estudantes, funcion·rio, professores ou gerentes. S„o
-questıes especificas que precisam ser analisadas, e entre os diversos conceitos
-para an·lise de competÍncias temos sempre um problema em comum:</p>
+<p class=MsoNormal>Empresas, escolas e diversas outras organiza√ß√µes buscam
+identificar as compet√™ncias, o Famoso ¬ìCHA¬î (Conhecimento, Habilidade e
+Atitude) dos seus estudantes, funcion√°rio, professores ou gerentes. S√£o
+quest√µes especificas que precisam ser analisadas, e entre os diversos conceitos
+para an√°lise de compet√™ncias temos sempre um problema em comum:</p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'>A analisar os
 resultados destes levantamentos. <o:p></o:p></b></p>
 
-<p class=MsoNormal>Vou mostrar como criar, da forma mais r·pida, uma ferramenta
-para an·lise <i style='mso-bidi-font-style:normal'><u>analÌtica</u></i> (por
-quest„o) e <i style='mso-bidi-font-style:normal'><u>sintÈtica</u></i> (por
-grupo de competÍncia), uma planilha de Excel que demonstre resultados
-encontrados e que seja possÌvel executar diversas an·lises conforme desejado.</p>
+<p class=MsoNormal>Vou mostrar como criar, da forma mais r√°pida, uma ferramenta
+para an√°lise <i style='mso-bidi-font-style:normal'><u>anal√≠tica</u></i> (por
+quest√£o) e <i style='mso-bidi-font-style:normal'><u>sint√©tica</u></i> (por
+grupo de compet√™ncia), uma planilha de Excel que demonstre resultados
+encontrados e que seja poss√≠vel executar diversas an√°lises conforme desejado.</p>
 
-<h1>Construindo o Formul·rio</h1>
+<h1>Construindo o Formul√°rio</h1>
 
-<p class=MsoNormal>O Formul·rio È simples e r·pido. Ele deve ser construÌdo e
-aplicado conforme a metodologia desejada. (ele È a base para o c·lculo, n„o vou
-entrar em detalhes na an·lise e escolha das questıes)</p>
+<p class=MsoNormal>O Formul√°rio √© simples e r√°pido. Ele deve ser constru√≠do e
+aplicado conforme a metodologia desejada. (ele √© a base para o c√°lculo, n√£o vou
+entrar em detalhes na an√°lise e escolha das quest√µes)</p>
 
-<h2>Par‚metros</h2>
+<h2>Par√¢metros</h2>
 
-<p class=MsoNormal>Existem Questıes que n„o s„o as respostas das competÍncias,
-que v„o servir de par‚metro para an·lises, como:</p>
+<p class=MsoNormal>Existem Quest√µes que n√£o s√£o as respostas das compet√™ncias,
+que v√£o servir de par√¢metro para an√°lises, como:</p>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Symbol'><span style='mso-list:Ignore'>¬∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Idade;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>GÍnero;</p>
+Symbol'><span style='mso-list:Ignore'>¬∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>G√™nero;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Symbol'><span style='mso-list:Ignore'>¬∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Cidade</p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol'><span style='mso-list:Ignore'>∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Symbol'><span style='mso-list:Ignore'>¬∑<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>Data da Resposta:</p>
 
-<h2>Questıes</h2>
+<h2>Quest√µes</h2>
 
-<p class=MsoNormal>Estas questıes devem assumir uma escala de 0 a 5 (<span
-class=SpellE>Likert</span>), dentre um c·lculo. Pode ser de 0 a 100, de 1 a
-7... Quem defini isso È vocÍ. Mas o importante È existir e ser padr„o para
-todas as respostas correspondentes as competÍncias analisadas.</p>
+<p class=MsoNormal>Estas quest√µes devem assumir uma escala de 0 a 5 (<span
+class=SpellE>Likert</span>), dentre um c√°lculo. Pode ser de 0 a 100, de 1 a
+7... Quem defini isso √© voc√™. Mas o importante √© existir e ser padr√£o para
+todas as respostas correspondentes as compet√™ncias analisadas.</p>
 
 <h1>Compilando Dados</h1>
 
-<p class=MsoNormal>Entrando em um banco integrado de informaÁıes È preciso que
-siga uma tabela ˙nica e integrada. Da forma que cada quest„o seja uma coluna e uma
-resposta corresponda a uma linha exatamente (n„o use mescla e n„o deixe nenhuma
-coluna com dados com o cabeÁalho em branco): </p>
+<p class=MsoNormal>Entrando em um banco integrado de informa√ß√µes √© preciso que
+siga uma tabela √∫nica e integrada. Da forma que cada quest√£o seja uma coluna e uma
+resposta corresponda a uma linha exatamente (n√£o use mescla e n√£o deixe nenhuma
+coluna com dados com o cabe√ßalho em branco): </p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -1324,7 +1324,7 @@ coluna com dados com o cabeÁalho em branco): </p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>Jo„o</p>
+  normal'>Jo√£o</p>
   </td>
   <td width=142 valign=top style='width:106.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1378,8 +1378,8 @@ coluna com dados com o cabeÁalho em branco): </p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Por ˙ltimo insira uma coluna com o m·ximo de valores
-possÌveis para cada quest„o <span class=SpellE>Ex</span>:</p>
+<p class=MsoNormal>Por √∫ltimo insira uma coluna com o m√°ximo de valores
+poss√≠veis para cada quest√£o <span class=SpellE>Ex</span>:</p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -1428,7 +1428,7 @@ possÌveis para cada quest„o <span class=SpellE>Ex</span>:</p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>Jo„o</p>
+  normal'>Jo√£o</p>
   </td>
   <td width=110 valign=top style='width:82.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1492,10 +1492,10 @@ possÌveis para cada quest„o <span class=SpellE>Ex</span>:</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2>C·lculos AnalÌticos</h2>
+<h2>C√°lculos Anal√≠ticos</h2>
 
 <p class=MsoNormal>Ainda trabalhando com as colunas, insira uma coluna para
-cada quest„o novamente e defina com um c·lculo do % possÌvel da Quest„o.
+cada quest√£o novamente e defina com um c√°lculo do % poss√≠vel da Quest√£o.
 Exemplo:</p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
@@ -1557,7 +1557,7 @@ Exemplo:</p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'>Jo„o</p>
+  normal'>Jo√£o</p>
   </td>
   <td width=48 valign=top style='width:36.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1649,34 +1649,34 @@ Exemplo:</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2>C·lculos SintÈticos</h2>
+<h2>C√°lculos Sint√©ticos</h2>
 
-<p class=MsoNormal>Um c·lculo um pouco mais complexo, insira uma coluna para
-cada grupo de competÍncia e realize o <span class=SpellE>calculo</span>
+<p class=MsoNormal>Um c√°lculo um pouco mais complexo, insira uma coluna para
+cada grupo de compet√™ncia e realize o <span class=SpellE>calculo</span>
 compilado:</p>
 
 <p class=MsoNormal align=center style='text-align:center'>=SEERRO((SOMA(J2:P2<span
 class=GramE>))/</span>(SEERRO(CONT.VALORES(J2:P2)*4;&quot;&quot;));&quot;&quot;)</p>
 
-<p class=MsoNormal>Este c·lculo È da seguinte forma:</p>
+<p class=MsoNormal>Este c√°lculo √© da seguinte forma:</p>
 
-<p class=MsoNormal align=center style='text-align:center'>=<span class=GramE>SEERRO(</span>(SOMA(ì<b
-style='mso-bidi-font-weight:normal'>Q1;Q2..</b>.î))/(SEERRO(CONT.VALORES(ì<b
-style='mso-bidi-font-weight:normal'>Q1;Q2..</b>.î)*(ì<b style='mso-bidi-font-weight:
-normal'>QMax</b>î);&quot;&quot;));&quot;&quot;)</p>
+<p class=MsoNormal align=center style='text-align:center'>=<span class=GramE>SEERRO(</span>(SOMA(¬ì<b
+style='mso-bidi-font-weight:normal'>Q1;Q2..</b>.¬î))/(SEERRO(CONT.VALORES(¬ì<b
+style='mso-bidi-font-weight:normal'>Q1;Q2..</b>.¬î)*(¬ì<b style='mso-bidi-font-weight:
+normal'>QMax</b>¬î);&quot;&quot;));&quot;&quot;)</p>
 
-<p class=MsoNormal>Selecione as cÈlulas que correspondem as questıes daquele
-grupo de competÍncia desejado.</p>
+<p class=MsoNormal>Selecione as c√©lulas que correspondem as quest√µes daquele
+grupo de compet√™ncia desejado.</p>
 
-<p class=MsoNormal>Ent„o assim vocÍ ter· as colunas que correspondem a an·lise
-% das competÍncias. O resto partimos para a planilha din‚mica.</p>
+<p class=MsoNormal>Ent√£o assim voc√™ ter√° as colunas que correspondem a an√°lise
+% das compet√™ncias. O resto partimos para a planilha din√¢mica.</p>
 
-<h1>Planilha Din‚mica</h1>
+<h1>Planilha Din√¢mica</h1>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Neste momento È gerada a planilha din‚mica selecionando
-todas as colunas e indo na opÁ„o:</p>
+<p class=MsoNormal>Neste momento √© gerada a planilha din√¢mica selecionando
+todas as colunas e indo na op√ß√£o:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
@@ -1706,11 +1706,11 @@ src="Excel_Competencia_CHA_arquivos/image002.jpg" v:shapes="Imagem_x0020_1"><![e
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>AtenÁ„o para n„o deixar nenhuma coluna sem tÌtulo, pois o
-Excel n„o criar·, se for o caso. </p>
+<p class=MsoNormal>Aten√ß√£o para n√£o deixar nenhuma coluna sem t√≠tulo, pois o
+Excel n√£o criar√°, se for o caso. </p>
 
-<p class=MsoNormal>ApÛs coloque alguns par‚metros da seguinte forma para gerar
-n˙meros para a prÛxima etapa:</p>
+<p class=MsoNormal>Ap√≥s coloque alguns par√¢metros da seguinte forma para gerar
+n√∫meros para a pr√≥xima etapa:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_2" o:spid="_x0000_i1034" type="#_x0000_t75" style='width:425.25pt;
@@ -1721,7 +1721,7 @@ src="Excel_Competencia_CHA_arquivos/image004.jpg" v:shapes="Imagem_x0020_2"><![e
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Se necess·rio faÁa com o bot„o esquerdo do Mouse:</p>
+<p class=MsoNormal>Se necess√°rio fa√ßa com o bot√£o esquerdo do Mouse:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_3" o:spid="_x0000_i1033" type="#_x0000_t75" style='width:424.5pt;
@@ -1732,11 +1732,11 @@ src="Excel_Competencia_CHA_arquivos/image006.jpg" v:shapes="Imagem_x0020_3"><![e
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2>Filtros (segmentaÁ„o de dados)</h2>
+<h2>Filtros (segmenta√ß√£o de dados)</h2>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Para inserir segmentaÁ„o</p>
+<p class=MsoNormal>Para inserir segmenta√ß√£o</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_4" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:425.25pt;
@@ -1747,14 +1747,14 @@ src="Excel_Competencia_CHA_arquivos/image008.jpg" v:shapes="Imagem_x0020_4"><![e
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Copie as colunas com a planilha din‚mica e cole uma cÛpia em
-algumas colunas para frente da existente. Ser· importante para a prÛxima etapa
-e lembre de mostrar valores como a mÈdia da busca e n„o a soma. Deixe sempre o
-n˙mero desejado. Assim os filtros funcionaram para as duas planilhas.</p>
+<p class=MsoNormal>Copie as colunas com a planilha din√¢mica e cole uma c√≥pia em
+algumas colunas para frente da existente. Ser√° importante para a pr√≥xima etapa
+e lembre de mostrar valores como a m√©dia da busca e n√£o a soma. Deixe sempre o
+n√∫mero desejado. Assim os filtros funcionaram para as duas planilhas.</p>
 
-<p class=MsoNormal>Movimente estes filtros para uma coluna visÌvel que possa
-servir de menu. Recomendo a coluna ìAî que ent„o ser· possÌvel congelar e
-ficar· sempre visÌvel:</p>
+<p class=MsoNormal>Movimente estes filtros para uma coluna vis√≠vel que possa
+servir de menu. Recomendo a coluna ¬ìA¬î que ent√£o ser√° poss√≠vel congelar e
+ficar√° sempre vis√≠vel:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_5" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:424.5pt;
@@ -1763,11 +1763,11 @@ ficar· sempre visÌvel:</p>
 </v:shape><![endif]--><![if !vml]><img width=566 height=243
 src="Excel_Competencia_CHA_arquivos/image010.jpg" v:shapes="Imagem_x0020_5"><![endif]></span></p>
 
-<h2>C·lculos e an·lises</h2>
+<h2>C√°lculos e an√°lises</h2>
 
-<p class=MsoNormal>Escolhendo as colunas em rÛtulos de <b style='mso-bidi-font-weight:
-normal'>Coluna (Valores)</b> e rÛtulos de <b style='mso-bidi-font-weight:normal'>Linha
-(Par‚metros)</b> j· ser· possÌvel ter as duas formas de an·lise:</p>
+<p class=MsoNormal>Escolhendo as colunas em r√≥tulos de <b style='mso-bidi-font-weight:
+normal'>Coluna (Valores)</b> e r√≥tulos de <b style='mso-bidi-font-weight:normal'>Linha
+(Par√¢metros)</b> j√° ser√° poss√≠vel ter as duas formas de an√°lise:</p>
 
 <p class=MsoNormal>Plan1 </p>
 
@@ -1787,20 +1787,20 @@ src="Excel_Competencia_CHA_arquivos/image012.jpg" v:shapes="Imagem_x0020_8"><![e
 </v:shape><![endif]--><![if !vml]><img width=283 height=257
 src="Excel_Competencia_CHA_arquivos/image014.jpg" v:shapes="Imagem_x0020_7"><![endif]></span></p>
 
-<p class=MsoNormal>J· possui duas tabelas din‚micas com c·lculos AnalÌticos
-(por quest„o) e sintÈtico (por grupo de conhecimento</p>
+<p class=MsoNormal>J√° possui duas tabelas din√¢micas com c√°lculos Anal√≠ticos
+(por quest√£o) e sint√©tico (por grupo de conhecimento</p>
 
-<p class=MsoNormal>Desta parte em diante È um c·lculo mais pessoal, para
-relacionar dados, conforme par‚metros que ficam a critÈrio de cada tipo de
+<p class=MsoNormal>Desta parte em diante √© um c√°lculo mais pessoal, para
+relacionar dados, conforme par√¢metros que ficam a crit√©rio de cada tipo de
 pesquisa.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h2>Inserindo Gr·ficos</h2>
+<h2>Inserindo Gr√°ficos</h2>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Clique em uma das planilhas e v· atÈ a opÁ„o:</p>
+<p class=MsoNormal>Clique em uma das planilhas e v√° at√© a op√ß√£o:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_9" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:321.75pt;
@@ -1809,9 +1809,9 @@ pesquisa.</p>
 </v:shape><![endif]--><![if !vml]><img width=429 height=329
 src="Excel_Competencia_CHA_arquivos/image016.jpg" v:shapes="Imagem_x0020_9"><![endif]></span></p>
 
-<p class=MsoNormal>Escolha o gr·fico que deseja. <span class=SpellE>Lembre</span>
-que clicando no gr·fico aparecem duas opÁıes na barra de ferramentas que
-agilizam a sua ediÁ„o. O Excel tem bons gr·ficos prontos:</p>
+<p class=MsoNormal>Escolha o gr√°fico que deseja. <span class=SpellE>Lembre</span>
+que clicando no gr√°fico aparecem duas op√ß√µes na barra de ferramentas que
+agilizam a sua edi√ß√£o. O Excel tem bons gr√°ficos prontos:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_10" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:425.25pt;
@@ -1822,10 +1822,10 @@ src="Excel_Competencia_CHA_arquivos/image018.jpg" v:shapes="Imagem_x0020_10"><![
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal>Espero que ajude e duvidas ou recomendaÁıes deixe nos
-coment·rios abaixo! </p>
+<p class=MsoNormal>Espero que ajude e duvidas ou recomenda√ß√µes deixe nos
+coment√°rios abaixo! </p>
 
-<p class=MsoNormal>Uma vis„o que <span class=SpellE>contruÌ</span> foi:</p>
+<p class=MsoNormal>Uma vis√£o que <span class=SpellE>contru√≠</span> foi:</p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Imagem_x0020_11" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:425.25pt;
