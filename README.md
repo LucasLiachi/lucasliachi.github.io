@@ -5,19 +5,19 @@
 ### Veja meu CV completo
 
 ## **Gestão da Qualidade**
-SGQ e Auditorias
-Metrologia com IOT (IBM Watson e NodeJS)
-Qualidade em treinamentos e geração de competências
+* SGQ e Auditorias
+* Metrologia com IOT (IBM Watson e NodeJS)
+* Qualidade em treinamentos e geração de competências
 
 ## **Gestão por Processos**
-Processos ponta a ponta (E2E)
+* Processos ponta a ponta (E2E)
 
 ## **Governança TI**
-Estudos em COBIT e certificação]
-Estudos ITIL e certificação
-Metodologia Ágil
+* Estudos em COBIT e certificação]
+* Estudos ITIL e certificação
+* Metodologia Ágil
 
 ## **GRC (Governance, Risk and Compliance)**
-Controle de licenças e acessos
+* Controle de licenças e acessos
 
 
