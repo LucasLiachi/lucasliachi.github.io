@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [Lucas Liachi | Github]
 description: [pagina de compartilhamento de conhecimento]
-
+show_downloads: "true"
 logo: /static/img/0.jpg
+
+linkedin: https://www.linkedin.com/in/lucasliachi
