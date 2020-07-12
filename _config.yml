@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: [Lucas Liachi | Github]
 description: [pagina de compartilhamento de conhecimento]
 
-logo: [https://lucasliachi.github.io/static/img/0.jpg]
+logo: /static/img/0.jpg
