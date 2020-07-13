@@ -28,9 +28,9 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.owner_url }}">Acesse meu <strong>Github</strong></a></li>
-          <li><a target="_blank" href="{{ site.linkedin }}">Acesse meu <strong>LinkedIn</strong></a></li>
-          <li><a target="_blank" href="{{ site.cv | relative_url }}">Download <strong> Currículo</strong></a></li>
+          <li><a href="{{ site.github.owner_url }}"> <strong>Github</strong></a></li>
+          <li><a target="_blank" href="{{ site.linkedin }}"> <strong>LinkedIn</strong></a></li>
+          <li><a target="_blank" href="{{ site.cv | relative_url }}"> <strong> Currículo</strong></a></li>
         </ul>
         {% endif %}
       </header>
@@ -43,7 +43,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small> GitHub Pages &mdash; Theme <a href="{{ site.github.zip_url }}"> Download </a></small></p>
+        <p><small> GitHub Pages &mdash; Baixe este meu tema, edite default.html e crie o seu também <a href="{{ site.github.zip_url }}"> Download </a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

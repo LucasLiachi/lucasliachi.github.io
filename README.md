@@ -2,7 +2,6 @@
 
 Durante meus estudos e minha carreira construí materiais que gostaria de compartilhar com todos. Separo por temas e conforme eles foram construídos
 
-
 ## **Gestão da Qualidade**
 * SGQ e Auditorias
 * Metrologia com IOT (IBM Watson e NodeJS)
@@ -18,6 +17,3 @@ Durante meus estudos e minha carreira construí materiais que gostaria de compar
 
 ## **GRC (Governance, Risk and Compliance)**
 * Controle de licenças e acessos
-
->guia markdown
->https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
